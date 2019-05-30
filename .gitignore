@@ -7,3 +7,9 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+.elixir_ls/
+
+.DS_Store
+.vscode/
+.vscode/**
+.history
